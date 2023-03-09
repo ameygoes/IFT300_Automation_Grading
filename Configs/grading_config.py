@@ -1,1 +1,2 @@
 SIMILARITY_THRESHOLD = 0.5
+REPO_NAMES = "{}_assignment_{}"

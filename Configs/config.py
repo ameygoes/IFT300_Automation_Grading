@@ -1,3 +1,2 @@
-import os
-
-GITHUB_PAT = os.environ.get("GITHUB_PAT_IFT")
+ORG_NAME = "IFT-300-{}-{}-BATCH-{}"
+MANDATORY_GITHUB_ADMINS = ['ameygoes']
